@@ -20,8 +20,6 @@ addTaskBtn.addEventListener("click" , () => {
 
 })
 
-function
-
 
 function storeItem() {
     localStorage.setItem("tasks", JSON.stringify(tasks))
